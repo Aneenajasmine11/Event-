@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+          <title>Events</title>
+          <link rel="icon" href="img/date.png">
+          
+    </head>
+    <body bgcolor="black" style="color:white;">
+    <center><h1>Upcoming Events📅</h1>
+        <h3>Don't Miss any of your important events.Here are the important events you have registered for!</h3></center><hr>
+        <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic distinctio labore fuga repudiandae maiores, sint ab incidunt explicabo cumque dolorem dolore enim nemo id a eligendi facilis fugit numquam obcaecati ut veniam nesciunt eius cum. Laudantium officiis voluptates obcaecati? Soluta ex fugit deserunt doloremque? Commodi aperiam cumque repellendus laborum maiores, itaque voluptatibus, ut veniam, neque nobis assumenda? Praesentium quia delectus magnam tenetur. Molestiae omnis laboriosam, maxime nulla quo dolor est sunt laborum nostrum ducimus. Sint, mollitia esse architecto animi possimus voluptates et harum! Necessitatibus exercitationem sed sapiente, harum ipsum maxime quae voluptates tempore vitae labore, fuga fugiat, nemo quaerat ducimus!
+        </p>
+        <center><img src="img/event1.png">
+        <h1>Photo Gallery Event</h1>
+           <h2>Free Entry|Free Food|Pets are not allowed</h2>
+           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, delectus necessitatibus perspiciatis voluptas nihil sequi incidunt possimus recusandae! Doloremque culpa, obcaecati placeat eveniet assumenda voluptatum esse illum veniam minima architecto quas iste libero voluptatibus tempore sint, vero eligendi asperiores? Repellendus eveniet nihil fugit nulla voluptas rerum pariatur iste cumque. Tempore?</p>
+        <img src="img/event2.png">
+        <h2><a href="https://www.myntra.com/">Fashion Store</a></h2>
+        <h2>Free Entry|Free Food|Pets are not allowed</h2>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta nisi explicabo velit distinctio alias voluptates ullam voluptas? Delectus quod atque necessitatibus a veniam culpa facere aut autem reprehenderit ea? Autem eos et mollitia expedita, libero, doloribus atque hic, impedit sint tempore saepe maiores eum facilis voluptates nihil exercitationem aperiam quos!</p>
+        </p><hr>    
+    </center>
+    <center>
+         <h1>Contact</h1>
+         <h2>+919345569934|mminnu@gmai.com</h2>
+         <p>9th street erode</p>
+    </center>
+    </body>
+</html>
